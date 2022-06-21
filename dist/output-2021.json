@@ -1,0 +1,407 @@
+[
+    {
+        "date": "2021-01-01",
+        "label_en": "New Year's Day",
+        "label_hi": "\u0928\u090f \u0938\u093e\u0932 \u0915\u093e \u0926\u093f\u0928"
+    },
+    {
+        "date": "2021-01-13",
+        "label_en": "Lohri",
+        "label_hi": "\u0932\u094b\u0939\u0921\u093c\u0940"
+    },
+    {
+        "date": "2021-01-14",
+        "label_en": "Pongal",
+        "label_hi": "\u092a\u094b\u0902\u0917\u0932"
+    },
+    {
+        "date": "2021-01-14",
+        "label_en": "Makar Sankranti",
+        "label_hi": "\u092e\u0915\u0930 \u0938\u0902\u0915\u094d\u0930\u093e\u0902\u0924\u093f"
+    },
+    {
+        "date": "2021-01-20",
+        "label_en": "Guru Govind Singh Jayanti",
+        "label_hi": "\u0917\u0941\u0930\u0941 \u0917\u094b\u0935\u093f\u0928\u094d\u0926 \u0938\u093f\u0902\u0939 \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-01-26",
+        "label_en": "Republic Day",
+        "label_hi": "\u0917\u0923\u0924\u0902\u0924\u094d\u0930 \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-02-12",
+        "label_en": "Chinese New Year",
+        "label_hi": "\u091a\u0940\u0928\u0940 \u0928\u0935\u0935\u0930\u094d\u0937"
+    },
+    {
+        "date": "2021-02-14",
+        "label_en": "Valentine's Day",
+        "label_hi": "\u0935\u0948\u0932\u0947\u0902\u091f\u093e\u0907\u0928 \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-02-16",
+        "label_en": "Vasant Panchami",
+        "label_hi": "\u0935\u0938\u0902\u0924 \u092a\u0902\u091a\u092e\u0940"
+    },
+    {
+        "date": "2021-02-19",
+        "label_en": "Shivaji Jayanti",
+        "label_hi": "\u0936\u093f\u0935\u093e\u091c\u0940 \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-02-26",
+        "label_en": "Hazarat Ali's Birthday",
+        "label_hi": "\u0939\u091c\u093c\u0930\u0924 \u0905\u0932\u0940 \u0915\u093e \u091c\u0928\u094d\u092e\u0926\u093f\u0928"
+    },
+    {
+        "date": "2021-02-27",
+        "label_en": "Guru Ravidas Jayanti",
+        "label_hi": "\u0917\u0941\u0930\u0941 \u0930\u0935\u093f\u0926\u093e\u0938 \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-03-08",
+        "label_en": "Maharishi Dayanand Saraswati Jayanti",
+        "label_hi": "\u092e\u0939\u0930\u094d\u0937\u093f \u0926\u092f\u093e\u0928\u0928\u094d\u0926 \u0938\u0930\u0938\u094d\u0935\u0924\u0940 \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-03-11",
+        "label_en": "Maha Shivaratri",
+        "label_hi": "\u092e\u0939\u093e \u0936\u093f\u0935\u0930\u093e\u0924\u094d\u0930\u093f"
+    },
+    {
+        "date": "2021-03-11",
+        "label_en": "Shivaratri",
+        "label_hi": "\u0936\u093f\u0935\u0930\u093e\u0924\u094d\u0930\u093f"
+    },
+    {
+        "date": "2021-03-20",
+        "label_en": "March Equinox",
+        "label_hi": "\u092e\u093e\u0930\u094d\u091a \u0935\u093f\u0937\u0941\u0935"
+    },
+    {
+        "date": "2021-03-28",
+        "label_en": "First day of Passover",
+        "label_hi": "\u092b\u0938\u0939 \u0915\u093e \u092a\u0939\u0932\u093e \u0926\u093f\u0928"
+    },
+    {
+        "date": "2021-03-28",
+        "label_en": "Holika Dahana",
+        "label_hi": "\u0939\u094b\u0932\u093f\u0915\u093e \u0926\u0939\u0928"
+    },
+    {
+        "date": "2021-03-29",
+        "label_en": "Holi",
+        "label_hi": "\u0939\u094b\u0932\u0940"
+    },
+    {
+        "date": "2021-04-01",
+        "label_en": "Maundy Thursday",
+        "label_hi": "\u092a\u0941\u0923\u094d\u092f \u092c\u0943\u0939\u0938\u094d\u092a\u0924\u093f\u0935\u093e\u0930"
+    },
+    {
+        "date": "2021-04-02",
+        "label_en": "Good Friday",
+        "label_hi": "\u0917\u0941\u0921 \u092b\u094d\u0930\u093e\u0907\u0921\u0947"
+    },
+    {
+        "date": "2021-04-04",
+        "label_en": "Easter Day",
+        "label_hi": "\u0908\u0938\u094d\u091f\u0930 \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-04-13",
+        "label_en": "Chaitra Sukhladi",
+        "label_hi": "\u091a\u0948\u0924\u094d\u0930 \u0938\u0941\u0916\u0932\u093e\u095c\u0940"
+    },
+    {
+        "date": "2021-04-14",
+        "label_en": "Vaisakhi",
+        "label_hi": "\u0935\u0948\u0938\u093e\u0916\u0940"
+    },
+    {
+        "date": "2021-04-14",
+        "label_en": "Mesadi",
+        "label_hi": "Mesadi"
+    },
+    {
+        "date": "2021-04-14",
+        "label_en": "Ambedkar Jayanti",
+        "label_hi": "\u0906\u0902\u092c\u0947\u0921\u0915\u0930 \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-04-14",
+        "label_en": "Vaisakhadi",
+        "label_hi": "\u0935\u0948\u0938\u093e\u0916\u0926\u0940"
+    },
+    {
+        "date": "2021-04-21",
+        "label_en": "Rama Navami",
+        "label_hi": "\u0930\u092e\u093e \u0928\u0935\u092e\u0940"
+    },
+    {
+        "date": "2021-04-25",
+        "label_en": "Mahavir Jayanti",
+        "label_hi": "\u092e\u0939\u093e\u0935\u0940\u0930 \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-05-01",
+        "label_en": "May Day",
+        "label_hi": "\u092e\u0908 \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-05-07",
+        "label_en": "Birthday of Ravindranath",
+        "label_hi": "\u0930\u0935\u0940\u0902\u0926\u094d\u0930\u0928\u093e\u0925 \u0915\u093e \u091c\u0928\u094d\u092e\u0926\u093f\u0928"
+    },
+    {
+        "date": "2021-05-07",
+        "label_en": "Jamat Ul-Vida",
+        "label_hi": "\u091c\u092e\u093e\u0924 \u0909\u0932-\u0935\u093f\u0926\u093e"
+    },
+    {
+        "date": "2021-05-09",
+        "label_en": "Mother's Day",
+        "label_hi": "\u092e\u093e\u0924\u0943 \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-05-13",
+        "label_en": "Ramzan Id",
+        "label_hi": "\u0930\u092e\u091c\u093e\u0928 \u0908\u0926"
+    },
+    {
+        "date": "2021-05-13",
+        "label_en": "Ramzan Id",
+        "label_hi": "\u0930\u092e\u091c\u093e\u0928 \u0908\u0926"
+    },
+    {
+        "date": "2021-05-13",
+        "label_en": "Eid-ul-Fitar",
+        "label_hi": "Delifter"
+    },
+    {
+        "date": "2021-05-13",
+        "label_en": "Eid-ul-Fitar",
+        "label_hi": "Delifter"
+    },
+    {
+        "date": "2021-05-26",
+        "label_en": "Buddha Purnima",
+        "label_hi": "\u092c\u0941\u0926\u094d\u0927 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e"
+    },
+    {
+        "date": "2021-05-26",
+        "label_en": "Vesak",
+        "label_hi": "\u0935\u0947\u0938\u093e\u0915"
+    },
+    {
+        "date": "2021-06-20",
+        "label_en": "Father's Day",
+        "label_hi": "\u092a\u093f\u0924\u093e \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-06-21",
+        "label_en": "June Solstice",
+        "label_hi": "\u091c\u0942\u0928 \u0938\u0902\u0915\u094d\u0930\u093e\u0902\u0924\u093f"
+    },
+    {
+        "date": "2021-07-12",
+        "label_en": "Rath Yatra",
+        "label_hi": "\u0930\u0925 \u092f\u093e\u0924\u094d\u0930\u093e"
+    },
+    {
+        "date": "2021-07-20",
+        "label_en": "Bakr Id",
+        "label_hi": "\u092c\u0915\u0930 \u0932\u0947\u0928\u093e"
+    },
+    {
+        "date": "2021-07-20",
+        "label_en": "Eid ul-Adha",
+        "label_hi": "\u0926\u093e\u0935\u0924 \u0915\u094c\u0928"
+    },
+    {
+        "date": "2021-07-24",
+        "label_en": "Guru Purnima",
+        "label_hi": "\u0917\u0941\u0930\u0941 \u092a\u0942\u0930\u094d\u0923\u093f\u092e\u093e"
+    },
+    {
+        "date": "2021-08-01",
+        "label_en": "Friendship Day",
+        "label_hi": "\u092e\u093f\u0924\u094d\u0930\u0924\u093e \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-08-15",
+        "label_en": "Independence Day",
+        "label_hi": "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930\u0924\u093e \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-08-16",
+        "label_en": "Parsi New Year",
+        "label_hi": "\u092a\u093e\u0930\u0938\u0940 \u0928\u0935 \u0935\u0930\u094d\u0937"
+    },
+    {
+        "date": "2021-08-19",
+        "label_en": "Muharram",
+        "label_hi": "\u092e\u0941\u0939\u0930\u094d\u0930\u092e"
+    },
+    {
+        "date": "2021-08-19",
+        "label_en": "Ashura (Tentative Date)",
+        "label_hi": "\u0906\u0936\u0942\u0930\u093e (\u091f\u0947\u0902\u091f\u0947\u091f\u093f\u0935 \u0921\u0947\u091f)"
+    },
+    {
+        "date": "2021-08-21",
+        "label_en": "Onam",
+        "label_hi": "\u092e\u0947\u0930\u0940 \u092e\u093e\u0901"
+    },
+    {
+        "date": "2021-08-22",
+        "label_en": "Raksha Bandhan (Rakhi)",
+        "label_hi": "\u0930\u0915\u094d\u0937\u093e \u092c\u0902\u0927\u0928 (\u0930\u093e\u0916\u0940)"
+    },
+    {
+        "date": "2021-08-30",
+        "label_en": "Janmashtami",
+        "label_hi": "\u091c\u0928\u094d\u092e\u093e\u0937\u094d\u091f\u092e\u0940"
+    },
+    {
+        "date": "2021-08-30",
+        "label_en": "Janmashtami (Smarta)",
+        "label_hi": "\u091c\u0928\u094d\u092e\u093e\u0937\u094d\u091f\u092e\u0940 (\u0938\u094d\u092e\u093e\u0930\u094d\u091f)"
+    },
+    {
+        "date": "2021-09-10",
+        "label_en": "Ganesh Chaturthi",
+        "label_hi": "\u0917\u0923\u0947\u0936 \u091a\u0924\u0941\u0930\u094d\u0925\u0940"
+    },
+    {
+        "date": "2021-09-10",
+        "label_en": "Vinayaka Chaturthi",
+        "label_hi": "\u0935\u093f\u0928\u093e\u092f\u0915 \u091a\u0924\u0941\u0930\u094d\u0925\u0940"
+    },
+    {
+        "date": "2021-09-23",
+        "label_en": "September Equinox",
+        "label_hi": "\u0938\u093f\u0924\u0902\u092c\u0930 \u0935\u093f\u0937\u0941\u0935"
+    },
+    {
+        "date": "2021-10-02",
+        "label_en": "Mahatma Gandhi Jayanti",
+        "label_hi": "\u092e\u0939\u093e\u0924\u094d\u092e\u093e \u0917\u093e\u0902\u0927\u0940 \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-10-12",
+        "label_en": "Maha Saptami",
+        "label_hi": "\u092e\u0939\u093e \u0938\u092a\u094d\u0924\u092e\u0940"
+    },
+    {
+        "date": "2021-10-13",
+        "label_en": "Maha Ashtami",
+        "label_hi": "\u092e\u0939\u093e \u0905\u0937\u094d\u091f\u092e\u0940"
+    },
+    {
+        "date": "2021-10-14",
+        "label_en": "Maha Navami",
+        "label_hi": "\u092e\u0939\u093e \u0928\u0935\u092e\u0940"
+    },
+    {
+        "date": "2021-10-15",
+        "label_en": "Dussehra",
+        "label_hi": "\u0926\u0936\u0939\u0930\u093e"
+    },
+    {
+        "date": "2021-10-19",
+        "label_en": "Milad un-Nabi",
+        "label_hi": "\u092e\u093f\u0932\u093e\u0926 \u0914\u0930 \u0928\u093e\u092f\u092c"
+    },
+    {
+        "date": "2021-10-19",
+        "label_en": "Id-e-Milad (Tentative Date)",
+        "label_hi": "\u0908\u0926-\u090f-\u092e\u093f\u0932\u093e\u0926 (\u0924\u092e\u094d\u092c\u0942 \u0924\u093f\u0925\u093f)"
+    },
+    {
+        "date": "2021-10-20",
+        "label_en": "Maharishi Valmiki Jayanti",
+        "label_hi": "\u092e\u0939\u0930\u094d\u0937\u093f \u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-10-24",
+        "label_en": "Karaka Chaturthi (Karva Chauth)",
+        "label_hi": "\u0915\u0930\u0915 \u091a\u0924\u0941\u0930\u094d\u0925\u0940 (\u0915\u0930\u0935\u093e \u091a\u094b\u0925)"
+    },
+    {
+        "date": "2021-10-31",
+        "label_en": "Halloween",
+        "label_hi": "\u0939\u0947\u0932\u094b\u0935\u0940\u0928"
+    },
+    {
+        "date": "2021-11-04",
+        "label_en": "Naraka Chaturdasi",
+        "label_hi": "\u0928\u0930\u0915 \u091a\u0924\u0941\u0930\u094d\u0926\u0936\u0940"
+    },
+    {
+        "date": "2021-11-04",
+        "label_en": "Diwali",
+        "label_hi": "\u0926\u093f\u0935\u093e\u0932\u0940"
+    },
+    {
+        "date": "2021-11-04",
+        "label_en": "Deepavali",
+        "label_hi": "\u0926\u0940\u092a\u093e\u0935\u0932\u0940"
+    },
+    {
+        "date": "2021-11-05",
+        "label_en": "Govardhan Puja",
+        "label_hi": "\u0917\u094b\u0935\u0930\u094d\u0927\u0928 \u092a\u0942\u091c\u093e"
+    },
+    {
+        "date": "2021-11-06",
+        "label_en": "Bhai Duj",
+        "label_hi": "\u092d\u093e\u0908 \u0926\u0942\u091c"
+    },
+    {
+        "date": "2021-11-10",
+        "label_en": "Chhat Puja (Pratihar Sashthi - Surya Sashthi)",
+        "label_hi": "\u091b\u0920 \u092a\u0942\u091c\u093e (\u092a\u094d\u0930\u0924\u093f\u0939\u093e\u0930 \u0937\u0937\u094d\u0920\u0940 - \u0938\u0942\u0930\u094d\u092f \u0937\u0937\u094d\u0920\u0940)"
+    },
+    {
+        "date": "2021-11-19",
+        "label_en": "Guru Nanak Jayanti",
+        "label_hi": "\u0917\u0941\u0930\u0941 \u0928\u093e\u0928\u0915 \u091c\u092f\u0902\u0924\u0940"
+    },
+    {
+        "date": "2021-11-24",
+        "label_en": "Guru Tegh Bahadur's Martyrdom Day",
+        "label_hi": "\u0917\u0941\u0930\u0941 \u0924\u0947\u0917 \u092c\u0939\u093e\u0926\u0941\u0930 \u0915\u093e \u0936\u0939\u093e\u0926\u0924 \u0926\u093f\u0935\u0938"
+    },
+    {
+        "date": "2021-11-29",
+        "label_en": "First Day of Hanukkah",
+        "label_hi": "\u0939\u0928\u0941\u0915\u094d\u0915\u093e \u0915\u093e \u092a\u0939\u0932\u093e \u0926\u093f\u0928"
+    },
+    {
+        "date": "2021-12-06",
+        "label_en": "Last day of Hanukkah",
+        "label_hi": "\u0939\u0928\u0941\u0915\u094d\u0915\u093e \u0915\u093e \u0905\u0902\u0924\u093f\u092e \u0926\u093f\u0928"
+    },
+    {
+        "date": "2021-12-21",
+        "label_en": "December Solstice",
+        "label_hi": "\u0926\u093f\u0938\u0902\u092c\u0930 \u0938\u0902\u0915\u094d\u0930\u093e\u0902\u0924\u093f"
+    },
+    {
+        "date": "2021-12-24",
+        "label_en": "Christmas Eve",
+        "label_hi": "\u0915\u094d\u0930\u093f\u0938\u092e\u0938 \u0915\u0940 \u092a\u0942\u0930\u094d\u0935 \u0938\u0902\u0927\u094d\u092f\u093e"
+    },
+    {
+        "date": "2021-12-25",
+        "label_en": "Christmas",
+        "label_hi": "\u0915\u094d\u0930\u093f\u0938\u092e\u0938"
+    },
+    {
+        "date": "2021-12-31",
+        "label_en": "New Year's Eve",
+        "label_hi": "\u0928\u0935\u0935\u0930\u094d\u0937 \u0915\u0940 \u092a\u0942\u0930\u094d\u0935\u0938\u0902\u0927\u094d\u092f\u093e"
+    }
+]
