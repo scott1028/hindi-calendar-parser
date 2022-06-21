@@ -15,7 +15,7 @@ OPENER = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(CJ))
 def main(year = '2022' or '2021', lang = 'en' or 'hi'):
     version = str(int(random.random() * 10 + 70))
     req = urllib.request.Request(
-        f'https://timesles.com/en/holidays/years/{year}/india-95/',
+        f'https://timesles.com/{lang}/holidays/years/{year}/india-95/',
         data=None,
         headers={
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/%s.0.1916.47 Safari/537.36' % version
@@ -41,6 +41,6 @@ def main(year = '2022' or '2021', lang = 'en' or 'hi'):
         fd.write(json_data)
 
 if __name__ == "__main__":
-    year = input('year(ex: 2022, 2021, ...?')
+    year = input('year(ex: 2022, 2021, ...)?')
     lang = input('lang(ex: en, hi)?')
     main(year, lang)
