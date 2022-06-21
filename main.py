@@ -35,6 +35,7 @@ def main(year = '2022' or '2021', langs = ['en', 'hi']):
                 output.append({
                     'date': date,
                     f'label_{lang}': label,
+                    'type': row[2],
                 })
             else:
                 output[idx][f'label_{lang}'] = row[1]
